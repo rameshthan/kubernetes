@@ -9,3 +9,7 @@
 ##
 ####    Numbers of questions: 289 (as of 2023.02.05)
 ####   
+
+
+# Platform Engineering
+https://dev.to/thenjdevopsguy/platform-engineering-on-kubernetes-1hok
